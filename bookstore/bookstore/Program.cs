@@ -46,9 +46,5 @@ namespace bookstore
             }
             Console.ReadKey();
         }
-        static void AddingBook()
-        {
-
-        }
     }
 }
