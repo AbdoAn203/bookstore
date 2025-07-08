@@ -38,7 +38,7 @@ The `Program.cs` demonstrates:
 ## Demo Screenshots
 
 Below is the full demo screenshot for this program:
-![Demo] (https://github.com/AbdoAn203/bookstore/blob/master/bookstore/bookstore/Demo/FullDemo.PNG)
+![Demo] (https://github.com/AbdoAn203/bookstore/blob/master/bookstore/bookstore/Demo)
 
 
 
