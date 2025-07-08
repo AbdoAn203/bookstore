@@ -8,10 +8,10 @@ namespace bookstore.Books
 {
     internal abstract class Book
     {
-        protected string ISBN { get; set; }
-        protected int Year { get; set; }
-        protected string Title { get; set; }
-        protected double Price { get; set; }
+        public string ISBN { get; set; }
+        public int Year { get; set; }
+        public string Title { get; set; }
+        public double Price { get; set; }
 
         protected bool forSale = true;
         protected Book(string isbn, string title, int year)
